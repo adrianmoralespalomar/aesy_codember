@@ -1,0 +1,15 @@
+C:\Users\adrian.morales\source\repos\aesy_codember\bin\Debug\net8.0\aesy_codember.exe
+C:\Users\adrian.morales\source\repos\aesy_codember\bin\Debug\net8.0\aesy_codember.deps.json
+C:\Users\adrian.morales\source\repos\aesy_codember\bin\Debug\net8.0\aesy_codember.runtimeconfig.json
+C:\Users\adrian.morales\source\repos\aesy_codember\bin\Debug\net8.0\aesy_codember.dll
+C:\Users\adrian.morales\source\repos\aesy_codember\bin\Debug\net8.0\aesy_codember.pdb
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.AssemblyInfoInputs.cache
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.AssemblyInfo.cs
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.csproj.CoreCompileInputs.cache
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.sourcelink.json
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.dll
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\refint\aesy_codember.dll
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.pdb
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\aesy_codember.genruntimeconfig.cache
+C:\Users\adrian.morales\source\repos\aesy_codember\obj\Debug\net8.0\ref\aesy_codember.dll
