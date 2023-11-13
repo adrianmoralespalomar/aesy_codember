@@ -34,7 +34,7 @@ public static class Challenge02{
             foreach(var chari in input.ToCharArray()){
                 if(chari=='#')count++;
                 else if (chari=='@')count--;
-                else if (chari=='*')count=count*count;
+                else if (chari=='*')count*=count;
                 else result+=count.ToString();
             }
             return result;
